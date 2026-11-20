@@ -9,7 +9,7 @@
 the uploaded reference and rank 1, with the user-supplied world map as
 the base (Map: world outline; all other illustrations original).
 
-Status: LOCAL BUILD ONLY — not uploaded to GitHub, not submitted.
+Status: uploaded to GitHub — https://github.com/radeisv/news-image-20-nov-2026-r2 — not yet submitted to make.fun.
 
 Round 2f changes exactly ONE thing vs round 2e: the art is richer and
 the output is truecolour RGB instead of a 256-colour palette, so the
